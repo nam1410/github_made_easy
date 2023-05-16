@@ -1,5 +1,13 @@
-## create .gitignore and add extensions of all files that should be ignored
-1. example, '.*pkl' (add such extensions in new lines)
+## create .gitignore in text editor and add extensions of all files that should be ignored
+1. example, 
+```
+*.pkl
+*.zip
+*.csv
+*.xlsx
+*.pth
+```
+(add such extensions in new lines)
 
 ## check if there are any submodules in the current or nested directories. go to the directory and type
 1. rm -rf .git
