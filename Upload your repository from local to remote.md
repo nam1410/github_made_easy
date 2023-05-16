@@ -20,7 +20,7 @@
 ## go to github.com and create a repository in your dashboard and copy its link
 <link> should be like 
 ```
-https://github.com/your_username/your_repository_name.git
+https://github.com/<your_username>/<your_repository_name>.git
 ```
 
 ## come back to the command terminal
