@@ -1,4 +1,4 @@
-## create .gitignore in text editor and add extensions of all files that should be ignored
+## create .gitignore in text editor and add extensions of all files that should be ignored (change to the directory you want to upload - cd dir_name/)
 1. example, 
 ```
 *.pkl
@@ -12,7 +12,7 @@
 ## check if there are any submodules in the current or nested directories. go to the directory and type
 1. ```rm -rf .git```
 
-## run the following in order in command terminal (change to the directory you want to upload - cd dir_name/)
+## run the following in order in command terminal 
 1. ```git init```
 2. ```git add .```
 3. ```git commit -m "Initial commit"```
@@ -20,7 +20,7 @@
 ## go to github.com and create a repository in your dashboard and copy its link
 <link> should be like 
 
-https://github.com/<your_username>/<your_repository_name>.git
+https://github.com/your_username/your_repository_name.git
 
 
 ## come back to the command terminal
